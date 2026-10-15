@@ -1,0 +1,8 @@
+[project]
+name = "python-jwt-auth"
+version = "0.1.0"
+description = "A simple JWT auth API built with the Python standard library while learning"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
